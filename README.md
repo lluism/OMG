@@ -8,7 +8,7 @@ removing repeated doublets. See the paper for details on the calculations.
 
 
    Additionally, we include here the plots of the distributions of equivalent widths, redshift 
-and significance of the detections (as in Figure 3 in the paper for the total catalog) for 
+and significance of the detections (as in Figure 3 in the paper) for 
 every quasar sample (KODIAQ DR1 and DR2, UVES, and HIRES).
 
 The columns in the catalogs are set as follows:
