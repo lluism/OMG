@@ -15,7 +15,7 @@ The columns in the catalogs are set as follows:
 1.  Quasar ID
 2.  RA
 3.  DEC
-4.  Weighted-mean redshift of the doublet (in mA)
+4.  Weighted-mean redshift of the doublet 
 5.  Equivalent width of the left-hand side line in the doublet (in mA)
 6.  Uncertainty in the equivalent width of the left-hand side line in the doublet (in mA)
 7.  Significance of the detection for the left-hand side line in the doublet (in mA)
