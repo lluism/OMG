@@ -4,7 +4,9 @@ Origin of Metals around Galaxies I: Metal-line doublet catalogs and parameter di
 
    This repository contains the metal-line doublet catalogs calculated in our paper 
 OMG I (reference) for CIV, SiIV, MgII and NV, after searching all the quasar samples and 
-removing repeated doublets. See the paper for details on the calculations. 
+removing repeated doublets. See the paper for details on the calculations. If you find 
+these catalogs useful, please, cite our work, and let me know if you find some issues with  
+the data or its use.
 
 
    Additionally, we include here the plots of the distributions of equivalent widths, redshift 
